@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:trip_ease_project/Screens/home/grid.dart';
+import 'package:trip_ease_project/Screens/home/maps.dart';
 
 import 'package:trip_ease_project/Screens/settings/setting.dart';
-import 'package:trip_ease_project/screens/home/grid.dart';
-import 'package:trip_ease_project/screens/home/maps.dart';
 
 class Homepage extends StatefulWidget {
   const Homepage({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:trip_ease_project/Screens/Home/homepage.dart';
-import 'package:trip_ease_project/Screens/Login/login_page.dart';
+import 'package:trip_ease_project/Screens/home/homepage.dart';
+import 'package:trip_ease_project/Screens/login/login_page.dart';
 
 class RegisterPage extends StatefulWidget {
   const RegisterPage({Key? key}) : super(key: key);

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:trip_ease_project/screens/delete_account/delete_account.dart';
-import 'package:trip_ease_project/screens/change_password/change_password.dart';
-import 'package:trip_ease_project/screens/privacy_policy/privacy_policy.dart';
-import 'package:trip_ease_project/screens/profile/profile.dart';
-import 'package:trip_ease_project/screens/login/sign_in.dart';
-import 'package:trip_ease_project/screens/welcome_page/welcome_page.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:trip_ease_project/Screens/change_password/change_password.dart';
+import 'package:trip_ease_project/Screens/delete_account/delete_account.dart';
+import 'package:trip_ease_project/Screens/login/sign_in.dart';
+import 'package:trip_ease_project/Screens/privacy_policy/privacy_policy.dart';
+import 'package:trip_ease_project/Screens/profile/profile.dart';
+import 'package:trip_ease_project/Screens/welcome_page/welcome_page.dart';
 import 'package:trip_ease_project/utils/theme_provider.dart';
 
 class Settings extends StatefulWidget {

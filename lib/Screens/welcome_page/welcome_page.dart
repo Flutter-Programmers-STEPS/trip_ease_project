@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:trip_ease_project/screens/Home/homepage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:trip_ease_project/Screens/home/homepage.dart';
+import 'package:trip_ease_project/Screens/login/login_page.dart';
 import '../login/sign_in.dart';
-import '../Login/login_page.dart';
 import '../register/register_page.dart';
 
 

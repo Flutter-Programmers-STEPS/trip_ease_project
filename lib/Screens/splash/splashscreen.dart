@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:trip_ease_project/Screens/Home/homepage.dart';
-import 'package:trip_ease_project/screens/welcome_page/welcome_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:trip_ease_project/Screens/home/homepage.dart';
+import 'package:trip_ease_project/Screens/welcome_page/welcome_page.dart';
 
 class Splash extends StatefulWidget {
   const Splash({super.key});
